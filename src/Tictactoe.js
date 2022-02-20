@@ -22,7 +22,7 @@ function Tictactoe(){
           [2,5,8]
         ],
         diagonals:[
-          [1,4,8],
+          [0,4,8],
           [2,4,6]
         ]
       }
